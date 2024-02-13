@@ -1,0 +1,52 @@
+:root {
+  --red: #d01c28;
+  --gray: #e2e2e2;
+}
+.container-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navigator {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+
+.logo {
+  width: 9rem;
+  height: 7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  max-width: 100%;
+}
+.links-nav {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  border: none;
+  padding: 0.5rem;
+  width: 100px;
+  color: var(--gray);
+  font-size: 1.6rem;
+  font-weight: bold;
+  background-color: var(--red);
+  border-radius: 8px;
+}

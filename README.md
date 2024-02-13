@@ -23,4 +23,4 @@ Muestra de como se ve actualmente.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/mackaroots/cardHonda.git

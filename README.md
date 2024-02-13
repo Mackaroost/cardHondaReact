@@ -1,4 +1,4 @@
-# Proyecto de Tarjeta de Consesionario de Moto
+# Proyecto de Tarjeta de Concesionario de Moto
 
 Este proyecto es una pequeña aplicación web desarrollada con React y estilos en CSS para simular una página inicial de un concesionario de motocicletas.
 
